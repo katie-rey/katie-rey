@@ -1,12 +1,19 @@
 
 ![Katie Rey](https://user-images.githubusercontent.com/96268293/170395680-971d62f9-53ba-4668-9b69-170c78f86734.png)
 
-# Hi, I'm Katie! 
+# Hi, I'm Katie! ♑
 
-This about me is a work in progress, watch this space. 
+I am a recent graduate of Enspiral Dev Academy - a 15 week full immersion course, with the aim of teaching a web development full stack including a strong emphasis on human skills. 
 
-----
+I am now on the hunt for a front end development role where I can bring my design and dev skills to life! 
 
+(Placeholder for online portfolio... coming soon 🎥)
+
+
+---
+
+
+## My current tech stack
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
