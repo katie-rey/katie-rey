@@ -1,8 +1,11 @@
 
 ![Katie Rey](https://user-images.githubusercontent.com/96268293/170395680-971d62f9-53ba-4668-9b69-170c78f86734.png)
 
-# About-me
-This is an about me repository that will be pinned to my home page - a work in progress, watch this space. 
+# Hi, I'm Katie! 
+
+This about me is a work in progress, watch this space. 
+
+----
 
 
 <div>
