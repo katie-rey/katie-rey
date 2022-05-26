@@ -1,7 +1,7 @@
 
 ![Katie Rey](https://user-images.githubusercontent.com/96268293/170395680-971d62f9-53ba-4668-9b69-170c78f86734.png)
 
-# Hi, I'm Katie! ♑
+# Hi, I'm Katie! ☀️
 
 I am a recent graduate of Enspiral Dev Academy - a 15 week full immersion course, with the aim of teaching a web development full stack including a strong emphasis on human skills. 
 
