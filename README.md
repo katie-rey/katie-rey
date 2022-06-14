@@ -5,6 +5,10 @@
 
 I am a recent graduate of Enspiral Dev Academy - a 15 week full immersion course, with the aim of teaching a web development full stack including a strong emphasis on human skills. 
 
+I am an inquisitive soul who loves to solve a puzzle or challenge. Tenacious, I refuse to give up until a problem is solved. My tenacity and curiosity has led me to become a resourceful and dedicated web developer adept in full stack development. 
+
+My background in design has given me a strong understanding of design principles enabling me to put these into practice via responsive frameworks. 
+
 I am now on the hunt for a front end development role where I can bring my design and dev skills to life! 
 
 (Placeholder for online portfolio... coming soon 🎥)
@@ -32,6 +36,19 @@ I am now on the hunt for a front end development role where I can bring my desig
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" **alt="Illustrator" width="40" height="40"/>
-
-
 </div>
+
+
+
+---
+
+
+## What I'm currently learning 
+
+- Mongodb (MERN)
+- Netlify (MERN)
+- Tailwind
+- DaisyUI
+- Liquid
+- Typescript
+
