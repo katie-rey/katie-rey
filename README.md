@@ -17,7 +17,7 @@ I am now on the hunt for a front end development role where I can bring my desig
 ---
 
 
-## My current tech stack
+### My current tech stack
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
@@ -43,7 +43,7 @@ I am now on the hunt for a front end development role where I can bring my desig
 ---
 
 
-## What I'm currently learning 
+### What I'm currently learning 
 
 - Mongodb (MERN)
 - Netlify
