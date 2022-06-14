@@ -46,7 +46,7 @@ I am now on the hunt for a front end development role where I can bring my desig
 ## What I'm currently learning 
 
 - Mongodb (MERN)
-- Netlify (MERN)
+- Netlify
 - Tailwind
 - DaisyUI
 - Liquid
