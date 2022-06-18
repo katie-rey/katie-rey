@@ -50,6 +50,7 @@ I am now on the hunt for a front end development role where I can bring my desig
 - Tailwind
 - DaisyUI
 - Liquid
+- Ruby
 
 
 ---
