@@ -45,13 +45,9 @@ I am now on the hunt for a front end development role where I can bring my desig
 
 ### What I'm currently learning 
 
-- MongoDB (MERN)
-- Netlify
+- Typescript
 - Tailwind
-- DaisyUI
-- Liquid
-- Ruby
-
+- React Native
 
 ---
 
