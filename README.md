@@ -47,9 +47,9 @@ I am now on the hunt for a front end development role where I can bring my desig
 
 - Typescript
 - Tailwind
-- React Native
+- Next.js
 
 ---
 
-Get in contact via my [LinkedIn](https://www.linkedin.com/in/katie-rey-7425a530/) profile at anytime.
+Get in contact via my [LinkedIn](https://www.linkedin.com/in/katie-rey-7425a530/) profile.
 
