@@ -46,8 +46,8 @@ I am now on the hunt for a front end development role where I can bring my desig
 ### What I'm currently learning 
 
 - Typescript
-- Tailwind
 - Next.js
+- Sass
 
 ---
 
