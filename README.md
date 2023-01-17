@@ -45,9 +45,9 @@ View my portfolio [here](https://www.katie-rey.dev/).
 
 ### What I'm currently learning 
 
-- Typescript
-- Next.js
-- Sass
+- vuejs
+- Apexcharts
+- Quasar
 
 ---
 
