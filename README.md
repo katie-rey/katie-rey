@@ -47,7 +47,7 @@ View my portfolio [here](https://www.katie-rey.dev/).
 
 - vuejs
 - Apexcharts
-- Quasar
+- Algorithms and data structures
 
 ---
 
