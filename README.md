@@ -48,7 +48,7 @@ View my portfolio [here](https://www.katie-rey.dev/).
 - vuejs
 - Apexcharts
 - Algorithms and data structures
-- AWS Certification 
+- Typescript
 
 ---
 
