@@ -45,9 +45,8 @@ View my portfolio [here](https://www.katie-rey.dev/).
 
 ### What I'm currently learning 
 
-- vuejs
-- Apexcharts
 - Algorithms and data structures
+- Next.js
 - Typescript
 
 ---
