@@ -9,7 +9,7 @@ I am an inquisitive soul who loves to solve a puzzle or challenge. Tenacious, I 
 
 My background in design has given me a strong understanding of design principles enabling me to put these into practice via responsive frameworks. 
 
-I am now on the hunt for a front end development role where I can bring my design and dev skills to life! 
+I am now on the hunt for a front end / full stack development role where I can bring my design and dev skills to life! 
 
 View my portfolio [here](https://www.katie-rey.dev/).
 
