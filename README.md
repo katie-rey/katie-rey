@@ -45,9 +45,10 @@ View my portfolio [here](https://www.katie-rey.dev/).
 
 ### What I'm currently learning 
 
-- Next.js
-- Typescript
-- Cloud Computing Fundamentals 
+- Cloud Computing
+- CI/CD
+- Azure Web Apps
+- 
 
 ---
 
