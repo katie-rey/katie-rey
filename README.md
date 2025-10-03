@@ -48,7 +48,7 @@ View my portfolio [here](https://www.katie-rey.dev/).
 - Cloud Computing
 - CI/CD
 - Azure Web Apps
-- 
+
 
 ---
 
