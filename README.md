@@ -11,7 +11,7 @@ My background in design has given me a strong understanding of design principles
 
 I am now on the hunt for a front end / full stack development role where I can bring my design and dev skills to life! 
 
-View my portfolio [here](https://www.katie-rey.dev/).
+View my portfolio soon
 
 
 ---
